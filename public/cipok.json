@@ -1,0 +1,45 @@
+{
+  "shoes": [
+    {
+      "nev": "Nike Jordan 1",
+      "meret": 46,
+      "megjelenes": "2025-04-15",
+      "ar": 50000,
+      "elerheto": true,
+      "id": "4h6Upqb5HwU"
+    },
+    {
+      "nev": "Adidas Yeezy Boost 350",
+      "meret": 44,
+      "megjelenes": "2025-05-20",
+      "ar": 65000,
+      "elerheto": true,
+      "id": "nMkjEuSnNPU"
+    },
+    {
+      "nev": "Nike Air Max 90",
+      "meret": 47,
+      "megjelenes": "2025-06-10",
+      "ar": 42111,
+      "elerheto": true,
+      "id": "ZqUrymAevGY"
+    },
+    {
+      "nev": "Adidas Superstar",
+      "meret": 45,
+      "megjelenes": "2025-07-05",
+      "ar": 35000,
+      "elerheto": true,
+      "id": "6xMhDifN-QA"
+    },
+    {
+      "nev": "Puma RS-X",
+      "meret": 42,
+      "megjelenes": "2025-08-12",
+      "ar": 38000,
+      "elerheto": true,
+      "id": "ASUHp8CJKzk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
