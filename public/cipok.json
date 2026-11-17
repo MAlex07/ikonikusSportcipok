@@ -39,6 +39,46 @@
       "ar": 38000,
       "elerheto": true,
       "id": "ASUHp8CJKzk"
+    },
+    {
+      "nev": "Nike Jordan 4",
+      "meret": 43,
+      "megjelenes": "2026-11-07",
+      "ar": 89000,
+      "elerheto": true,
+      "id": "Oi45OjispjE"
+    },
+    {
+      "nev": "Nike Jordan 3",
+      "meret": 45,
+      "megjelenes": "2026-11-14",
+      "ar": 65000,
+      "elerheto": false,
+      "id": "jt0JcFyq0ro"
+    },
+    {
+      "nev": "Adidas campus",
+      "meret": 41,
+      "megjelenes": "on",
+      "ar": 25000,
+      "elerheto": false,
+      "id": "Jk4qiGPNMBs"
+    },
+    {
+      "nev": "Adidas campus",
+      "meret": 43,
+      "megjelenes": "2026-11-15",
+      "ar": 34000,
+      "elerheto": true,
+      "id": "aZR4j5CCPc4"
+    },
+    {
+      "nev": "Adidas campus",
+      "meret": 41,
+      "megjelenes": "2026-11-12",
+      "ar": 25000,
+      "elerheto": false,
+      "id": "Cvg25dKhbZk"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
